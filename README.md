@@ -4,7 +4,7 @@ Um programinha em Lua bem simples, demorei uns dias pra fazer (usei coisas que a
 
 # Sobre o LuaBox
 
-O LuaBox é um programinha que pode ser executtado usando Lua em algum App/Programa ou Terminal, ele possui 4 até então:
+O LuaBox é um programinha que pode ser executado usando Lua em algum App/Programa ou Terminal, ele possui 4 opções até então:
 
 - Saudação (Sauda você de acordo com o nome que você escolheu, ex: "Olá, Brócolis Queimado!")
 - Mostrar Usuário (Mostra o nome de usuário que você escolheu, e eu ESPERO que você não tenha colocado alguma besteira aí...)
